@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @12967 
 - 👀 I’m currently interested in information technology (IT) 
-- 🌱 I’m currently learning CCNP
+- 🌱 I’m currently learning studying Artificial Intelligence (AI) at the moment
 - 💞️ I’m looking to collaborate on AURA
 - 📫 You can contact me via <a href=networkchristo@gmail.com>email</a> 👉
      I will be active and answering to all your doubts 
