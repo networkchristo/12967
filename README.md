@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @12967 
-- 👀 I’m currently interested in information technology (IT) 
-- 🌱 I’m currently learning CCNP
-- 💞️ I’m looking to collaborate on AURA
+- 👀 I’m currently interested in IT, VOIP, Networking and more. 
+- 🌱 I’m currently learning CCNP and CEH
+- 💞️ I’m looking to collaborate on Aura
 - 📫 You can contact me by email 👉 anonymoushacker8322@gmail.com 
-     I will be active and answering to all your doubts 
+     I will be active and answer all your doubts 
 
 <!---
 12967/12967 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-YOU CAN USE MY PYTHON SCRIPTS FOR ATTACKS AND FOR VIRUS
+YOU CAN USE MY PYTHON SCRIPTS FOR ATTACKS AND VIRUS
 
 DISCLAIMER: THIS IS MADE FOR EDUCATIONAL PURPOSES ONLY. 
-            I WILL.NOT BE RESPONSIBLE FOR WJAT YOU DID
-            DO IT YOUR OWN ROSH AND YOUR OWN DEVICES 
+            I WILL. NOT BE RESPONSIBLE FOR WJAT YOU DID
+            DO IT YOUR RISK AND YOUR OWN DEVICES 
