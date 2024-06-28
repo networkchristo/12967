@@ -1,4 +1,4 @@
-8- 👋 Hi, I’m @12967 
+8- 👋 Hi, I’m @networkchristo
 - 👀 I’m currently interested in IT, VOIP, Networking and more. 
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Aura
